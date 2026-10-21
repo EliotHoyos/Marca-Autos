@@ -16,4 +16,8 @@ public class MarcaResponse {
     private String nombre;
     private String modelo;
     private Boolean estado;
+    private Double precio;
+    private Double flete;
+    private Double igv;
+    private Double total;
 }

@@ -15,4 +15,5 @@ public class MarcaRequest {
     private String nombre;
     private String modelo;
     private Boolean estado;
+    private Double precio;
 }
