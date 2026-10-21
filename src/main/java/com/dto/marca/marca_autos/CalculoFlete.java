@@ -7,7 +7,7 @@ public class CalculoFlete {
         if(precio >= 20000){
             flete = 0.0;
         }else{
-            flete = 300.00;
+            flete = 300.0;
         }
         return flete;
     }
